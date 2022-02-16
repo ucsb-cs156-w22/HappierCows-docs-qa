@@ -20,6 +20,6 @@ collections:
     permalink: /branches/:path/
 
 repo_name: "This-should-be-overridden-by-github-actions-script"
-repo: ucsb-cs156-w22/STARTER-team03
+repo: ucsb-cs156-w22/HappierCows
 owner: ucsb-cs156-w22
-repo_name: STARTER-team03
+repo_name: HappierCows
